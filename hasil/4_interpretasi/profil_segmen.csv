@@ -1,0 +1,4 @@
+segmen,nama_segmen,jumlah_pelanggan,persen_pelanggan,median_R_hari,median_F_faktur,median_M_pound,rata2_R_hari,rata2_F_faktur,rata2_M_pound,total_belanja_pound,persen_kontribusi_belanja,jumlah_perbatasan,persen_perbatasan_dalam_segmen
+1,Pelanggan Prioritas,1820,31.1005,27.0000,10.0000,3590.8750,63.2731,14.9841,7905.4267,14387876.5100,84.2945,289,15.8791
+2,Pelanggan Reguler,2278,38.9269,65.0000,3.0000,690.2050,100.9214,2.8345,802.4724,1828032.0700,10.7099,564,24.7586
+3,Pelanggan Tidak Aktif,1754,29.9727,444.0000,1.0000,310.5150,472.9932,1.6340,486.1312,852674.1400,4.9956,344,19.6123

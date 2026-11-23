@@ -1,0 +1,88 @@
+{
+  "input": "/mnt/user-data/uploads/online_retail_II.xlsx",
+  "tanggal_acuan": "2011-12-10",
+  "periode_data": [
+    "2009-12-01",
+    "2011-12-09"
+  ],
+  "variabel_ln": [
+    "F",
+    "M"
+  ],
+  "baris_mentah": 1067371,
+  "baris_transaksi_valid": 776596,
+  "jumlah_pelanggan": 5852,
+  "statistik_rfm_mentah": {
+    "R": {
+      "count": 5852.0,
+      "mean": 200.73,
+      "std": 208.52,
+      "min": 1.0,
+      "25%": 26.0,
+      "50%": 96.0,
+      "75%": 380.0,
+      "95%": 624.0,
+      "99%": 727.0,
+      "max": 739.0
+    },
+    "F": {
+      "count": 5852.0,
+      "mean": 6.25,
+      "std": 12.75,
+      "min": 1.0,
+      "25%": 1.0,
+      "50%": 3.0,
+      "75%": 7.0,
+      "95%": 20.0,
+      "99%": 46.0,
+      "max": 373.0
+    },
+    "M": {
+      "count": 5852.0,
+      "mean": 2916.71,
+      "std": 14306.87,
+      "min": 2.95,
+      "25%": 339.58,
+      "50%": 856.02,
+      "75%": 2241.03,
+      "95%": 9270.27,
+      "99%": 28631.08,
+      "max": 580987.04
+    }
+  },
+  "skewness": {
+    "R": {
+      "skewness_sebelum": 0.894302804764194,
+      "skewness_sesudah": 0.894302804764194,
+      "ditransformasi_ln": false
+    },
+    "F": {
+      "skewness_sebelum": 12.040211208316297,
+      "skewness_sesudah": 0.6131843097764392,
+      "ditransformasi_ln": true
+    },
+    "M": {
+      "skewness_sebelum": 25.33120165888695,
+      "skewness_sesudah": 0.25468687908403104,
+      "ditransformasi_ln": true
+    }
+  },
+  "kode_non_produk_dibuang": [
+    "ADJUST",
+    "ADJUST2",
+    "AMAZONFEE",
+    "B",
+    "BANK CHARGES",
+    "C2",
+    "C3",
+    "CRUK",
+    "D",
+    "DOT",
+    "M",
+    "POST",
+    "S",
+    "TEST001",
+    "TEST002",
+    "m"
+  ]
+}

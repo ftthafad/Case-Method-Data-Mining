@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# dataset mentah tidak diunggah (unduh dari UCI, lihat data/README.md)
+data/*.xlsx
+data/*.csv
+# transaksi bersih besar (~11 MB), dibuat ulang oleh run_all.py
+hasil/1_preprocessing/transaksi_bersih.csv.gz

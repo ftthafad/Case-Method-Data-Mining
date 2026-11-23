@@ -1,0 +1,8 @@
+tahap,baris_dibuang,baris_tersisa
+0. Data mentah (semua sheet digabung),0,1067371
+1. Buang duplikat identik,34335,1033036
+2. Buang baris tanpa Customer ID,235151,797885
+3. Buang pembatalan (Invoice berawalan C),18390,779495
+4. Buang Quantity <= 0,0,779495
+5. Buang Price <= 0,70,779425
+6. Buang kode non-produk,2829,776596

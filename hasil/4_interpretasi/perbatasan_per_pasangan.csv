@@ -1,0 +1,4 @@
+pasangan_segmen,jumlah,persen_dari_perbatasan,persen_dari_seluruh_pelanggan
+Pelanggan Reguler <-> Pelanggan Tidak Aktif,646,53.9683,11.0390
+Pelanggan Prioritas <-> Pelanggan Reguler,533,44.5280,9.1080
+Pelanggan Prioritas <-> Pelanggan Tidak Aktif,18,1.5038,0.3076
